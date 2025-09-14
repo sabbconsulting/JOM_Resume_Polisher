@@ -3,16 +3,7 @@
 
 ⚠️ Important: This tool will not run without a resume file. Please upload a `.docx` or `.pdf` resume together with the persona file.
 
----
-
-## Quick Start
-1. Download `JOM_Resume_Polisher.docx`.  
-2. Open a new AI chat (ChatGPT, Gemini, Claude, etc.).  
-3. Upload your resume + the JOM file, then choose Quick Mode or Guided Mode.  
-
----
-
-**Tagline**  
+**Tagline**
 *“The JOM Resume Polisher: basically an AI resume coach that gives feedback, makes fixes, and hopefully helps you land interviews.”*
 
 ---
@@ -50,11 +41,12 @@ The **JOM Resume Polisher** is an AI persona designed to help polish resumes qui
 
 ---
 
+## Platform Differences
+- **ChatGPT**: Supports both file downloads (`.docx`, `.pdf`) and Copy Block output.  
+- **Gemini and Claude**: These platforms do **not** support file generation. JOM will still provide the **Copy Block** output. Simply copy it, paste into Word or Google Docs, and save/export as `.docx` or `.pdf`.  
+
+---
+
 ## Feedback
-
-I’d love to hear your thoughts!  
-Please send feedback, suggestions, or questions directly to me at:
-
-jimmolinari1971@gmail.com
-
-(For now, I’m keeping feedback via email rather than GitHub Issues.)
+If you have feedback, open an **Issue** in this GitHub repo.  
+(This keeps discussion organized here rather than through email.)  
