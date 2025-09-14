@@ -48,5 +48,4 @@ The **JOM Resume Polisher** is an AI persona designed to help polish resumes qui
 ---
 
 ## Feedback
-If you have feedback, open an **Issue** in this GitHub repo.  
-(This keeps discussion organized here rather than through email.)  
+If you have feedback, email jimmolinari1971@gmail.com
