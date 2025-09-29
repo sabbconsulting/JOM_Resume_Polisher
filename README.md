@@ -18,7 +18,7 @@ The JOM Resume Polisher is an AI persona designed to help polish resumes quickly
 How to Use
 
 1. Start a new AI chat session. 
-2. Upload JOM_Resume_Polisher.docx and your resume (`.docx` or `.pdf`). 
+2. Upload JOM_Resume_Polisher_v2.docx and your resume (`.docx` or `.pdf`). 
 3. Follow the prompts until satisfied. 
 4. Export your polished resume.
 
